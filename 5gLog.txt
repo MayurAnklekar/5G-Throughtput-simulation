@@ -1,0 +1,29 @@
+sfn=300, slot=0, rsrp=-100, sinr=10, Throughput=355, PCI=100, TXPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=300, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=300, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=302, slot=0, rsrp=-101, sinr=9, Throughput=327, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=302, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=302, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=304, slot=0, rsrp=-102, sinr=9, Throughput=333, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=304, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=304, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=306, slot=0, rsrp=-103, sinr=8, Throughput=311, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=306, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=306, slot=9, pktdropped-0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=308, slot=0, rsrp=-104, sinr=6, Throughput=265, PCI=100, TXPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=308, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=308, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=310, slot=0, rsrp=-105, sinr=5, Throughput=261, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=310, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=310, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=312, slot=0, rsrp=-106, sinr=4, Throughput=223, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=312, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=312, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=314, slot=0, rsrp=-108, sinr=3, Throughput=192, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=314, slot=1,
+sfn=314, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=316, slot=0, rsrp=-110, sinr=2, Throughput=173, PCI=100, TxPower=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=316, slot=1, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=316, slot=9, pktdropped=0, pktdiscarded=0, pktOOW=0, pktoutoforder=0
+sfn=318, slot=0, rsrp=-104, sinr=7, Throughput=301, PCI=288, TxPoWer=23, ResourceBlocks=217, PDCCHAgg=4, MIMO=2
+sfn=318, slot=1, pktdropped-0, pktdiscarded-0, pktOOW=0, pktoutOforder=00
